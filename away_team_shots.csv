@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+589316,25,MissedShots,0.870999984741211,0.45799999237060546,0.09897845983505249,Kike Pérez,a,8470,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Raul Moro,Pass
+589317,36,SavedShot,0.95,0.6459999847412109,0.2911761701107025,Raul Moro,a,8584,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Iván Sánchez,Throughball
+589329,78,BlockedShot,0.7559999847412109,0.745,0.013149705715477467,Raul Moro,a,8584,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,,TakeOn
+589330,78,MissedShots,0.7869999694824219,0.6559999847412109,0.019188236445188522,Raul Moro,a,8584,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,,None

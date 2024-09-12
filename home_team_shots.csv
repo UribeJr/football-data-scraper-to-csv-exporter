@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+589307,3,MissedShots,0.97,0.6029999923706054,0.08294057846069336,Robert Lewandowski,h,227,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,,None
+589308,3,ShotOnPost,0.960999984741211,0.38,0.34611189365386963,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Robert Lewandowski,Rebound
+589309,3,BlockedShot,0.9,0.5579999923706055,0.1175016239285469,Raphinha,h,8026,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,,Rebound
+589310,9,SavedShot,0.7619999694824219,0.5279999923706055,0.026790542528033257,Raphinha,h,8026,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Lamine Yamal,Pass
+589311,13,SavedShot,0.8159999847412109,0.534000015258789,0.056379370391368866,Robert Lewandowski,h,227,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Pedri,Pass
+589312,15,BlockedShot,0.905,0.565,0.05855296924710274,Iñigo Martínez,h,2484,SetPiece,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,,Aerial
+589313,16,BlockedShot,0.9480000305175781,0.524000015258789,0.1193411648273468,Robert Lewandowski,h,227,SetPiece,2024,Head,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,,Aerial
+589314,19,Goal,0.9119999694824219,0.43099998474121093,0.30838659405708313,Raphinha,h,8026,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Pau Cubarsí,Chipped
+589315,23,Goal,0.8690000152587891,0.575999984741211,0.35723018646240234,Robert Lewandowski,h,227,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Lamine Yamal,Throughball
+589318,38,SavedShot,0.725999984741211,0.36400001525878906,0.02193465083837509,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Pedri,Pass
+589319,40,ShotOnPost,0.8530000305175781,0.515,0.12392028421163559,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Robert Lewandowski,Pass
+589320,45,BlockedShot,0.8030000305175782,0.49,0.13990911841392517,Robert Lewandowski,h,227,DirectFreekick,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,,Standard
+589321,46,MissedShots,0.9209999847412109,0.4879999923706055,0.06342632323503494,Pau Cubarsí,h,12005,FromCorner,2024,OtherBodyPart,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Raphinha,Cross
+589322,46,Goal,0.9059999847412109,0.4859999847412109,0.09579724818468094,Jules Koundé,h,6433,FromCorner,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,,None
+589323,49,BlockedShot,0.914000015258789,0.6179999923706054,0.1315528154373169,Dani Olmo,h,8292,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Robert Lewandowski,Pass
+589324,54,SavedShot,0.9080000305175782,0.610999984741211,0.4759334921836853,Raphinha,h,8026,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Dani Olmo,Throughball
+589325,54,MissedShots,0.8180000305175781,0.735,0.025155790150165558,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Pedri,Pass
+589326,56,ShotOnPost,0.9390000152587891,0.33299999237060546,0.25260311365127563,Robert Lewandowski,h,227,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Lamine Yamal,Pass
+589327,63,Goal,0.9680000305175781,0.5379999923706055,0.6885185241699219,Raphinha,h,8026,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Robert Lewandowski,None
+589328,71,Goal,0.909000015258789,0.534000015258789,0.6527318358421326,Raphinha,h,8026,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Lamine Yamal,Throughball
+589331,81,Goal,0.9419999694824219,0.6170000076293946,0.4376397430896759,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Ferrán Torres,TakeOn
+589332,84,Goal,0.914000015258789,0.5479999923706055,0.4119284749031067,Ferrán Torres,h,6441,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Raphinha,Cross
+589333,91,MissedShots,0.8040000152587891,0.77,0.02168097533285618,Fermín López,h,11822,FromCorner,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Raphinha,Pass
